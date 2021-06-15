@@ -34,7 +34,7 @@ nnoremap JJJJ <nop>
 " VIM user interface
 "------------------------------------------------------------------------------
 
-" Make sure that coursor is always vertically centered on j/k moves
+" Make sure that cursor is always vertically centered on j/k moves
 set so=999
 
 " add vertical lines on columns
@@ -87,7 +87,7 @@ if has('mouse')
   set mouse=a
 endif
 
-" Allow smarter completion by infering the case
+" Allow smarter completion by inferring the case
 set infercase
 
 " Ignore case when searching
